@@ -18,7 +18,7 @@ The development of the addon might not be super active due to us having our own 
  - Enjoy the addon.
  - Join the Discord server if you have any issues with it.
 
-#### Latest build: [Latest Build](https://github.com/Marccccccccccccccc/BlackOut/releases/tag/1.5.2)
+#### Latest 1.21.11 build: [GitHub Releases](https://github.com/sparklecatdev/BlackOut/releases)
 
 #### Credits
 Doogie13 for helping with the block mining calculations and step offsets.
@@ -26,6 +26,8 @@ Doogie13 for helping with the block mining calculations and step offsets.
 RickyTheRaccoon for his InvSwitch.
 
 H1ggsK for updating to 1.21.4+.
+
+Marccccccccccccccc, Crosby, and Wide_Cat for the community 1.21.11 continuation.
 
 [#### Official youtube channel https://www.youtube.com/channel/UCq_NxTxgS-Xk0TsSmhqXoyg]: #
 

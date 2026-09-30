@@ -12,8 +12,8 @@
     "Wide_Cat"
   ],
   "contact": {
-    "sources": "https://github.com/H1ggsK/BlackOut/",
-    "issues": "https://github.com/H1ggsK/BlackOut/issues"
+    "sources": "https://github.com/sparklecatdev/BlackOut/",
+    "issues": "https://github.com/sparklecatdev/BlackOut/issues"
   },
   "icon": "assets/blackout/logo.png",
   "license": "GPL-3.0-or-later",
@@ -32,7 +32,7 @@
   },
   "depends": {
     "java": ">=21",
-    "minecraft": ">=1.21.11",
+    "minecraft": "~1.21.11",
     "meteor-client": "*"
   }
 }
